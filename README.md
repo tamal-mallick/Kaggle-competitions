@@ -1,2 +1,2 @@
 # Kaggle-competitions
-This repository is for saving codes which I have built to participate in Kaggle competitions
+Some of the codes I used for Kaggle competitions are kept in this repository.
